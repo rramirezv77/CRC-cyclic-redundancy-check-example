@@ -1,19 +1,19 @@
 === Resultados para dataset1 ===
-data_150.txt: 1110000011101110 (sin errores)
-data_200.txt: 1111000010110111 (sin errores)
-data_230.txt: 1111010110110100 (sin errores)
-data_250.txt: 1010001011001011 (sin errores)
-data_300.txt: 0000100001111010 (sin errores)
+data_150.txt: 1110000011101110
+data_200.txt: 1111000010110111
+data_230.txt: 1111010110110100
+data_250.txt: 1010001011001011
+data_300.txt: 0000100001111010
 
 === Resultados para dataset2 ===
-trama_1.txt: 0000000000000000 (sin errores)
+trama_1.txt: 0000000000000000
 trama_10.txt: 1101110001010100 (contiene errores)
 trama_2.txt: 0110000011100011 (contiene errores)
 trama_3.txt: 0010011100110000 (contiene errores)
 trama_4.txt: 1100001111101101 (contiene errores)
-trama_5.txt: 0000000000000000 (sin errores)
+trama_5.txt: 0000000000000000
 trama_6.txt: 0000001000101101 (contiene errores)
-trama_7.txt: 0000000000000000 (sin errores)
-trama_8.txt: 0000000000000000 (sin errores)
+trama_7.txt: 0000000000000000
+trama_8.txt: 0000000000000000
 trama_9.txt: 0111000001100101 (contiene errores)
 

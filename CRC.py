@@ -57,7 +57,7 @@ with open(output_file, 'w') as outfile:
                 if data_folder == 'dataset2' and '1' in secuencia_generada:
                     outfile.write(f'{filename}: {secuencia_generada} (contiene errores)\n')
                 else:
-                    outfile.write(f'{filename}: {secuencia_generada} (sin errores)\n')
+                    outfile.write(f'{filename}: {secuencia_generada}\n')
         # Si no se encontraron archivos válidos, escribir mensaje
         if not archivos_encontrados:
             outfile.write('No se encontraron archivos data_*.txt en esta carpeta.\n')
