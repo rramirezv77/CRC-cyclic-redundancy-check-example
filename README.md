@@ -1,1 +1,2 @@
 # CRC-cyclic-redundancy-check-example
+  A Cyclic Redundancy Check (CRC) is a method for detecting errors in digital data. It works by treating the data as a polynomial and dividing it by a fixed polynomial (the generator polynomial). The remainder of     this division, the CRC, is appended to the data. The receiver then performs the same division with the received data (including the CRC) and checks if the remainder is zero. A non-zero remainder indicates an error. 
